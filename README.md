@@ -5,3 +5,9 @@
 
 <img width="1362" height="663" alt="image" src="https://github.com/user-attachments/assets/7da8185b-d935-4b87-9646-cd3db77fc5b4" />
 
+
+//task3 
+<img width="1351" height="575" alt="image" src="https://github.com/user-attachments/assets/84cde704-8a0a-4c58-aa21-107f5e817dad" />
+
+<img width="1064" height="510" alt="image" src="https://github.com/user-attachments/assets/1ffe0796-4f16-4b1c-b309-fc8709e5e498" />
+
